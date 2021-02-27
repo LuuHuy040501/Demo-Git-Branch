@@ -23,5 +23,10 @@ namespace DemoGitBranch.Controllers
         {
             var linh = "Register function implemented by Linh";
         }
+
+        public void CheckOut()
+        {
+            var lung = "okoko";
+        }
     }
 }
