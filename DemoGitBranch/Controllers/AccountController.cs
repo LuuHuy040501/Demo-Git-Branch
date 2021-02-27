@@ -28,5 +28,12 @@ namespace DemoGitBranch.Controllers
         {
             var lung = "okoko";
         }
+
+        public void TestCheckout()
+        {
+            var a = "Test Checkout change branch";
+            ////////////////hihihihih
+            //////huyhuythuy
+        }
     }
 }
