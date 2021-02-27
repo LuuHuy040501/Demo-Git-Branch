@@ -14,5 +14,9 @@ namespace DemoGitBranch.Controllers
             return View();
         }
         //implement login logout function
+        public void Login()
+        {
+            var huy = "login function implemented by Huy";
+        }
     }
 }
