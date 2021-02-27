@@ -18,5 +18,10 @@ namespace DemoGitBranch.Controllers
         {
             var huy = "login function implemented by Huy";
         }
+
+        public void Resgiter()
+        {
+            var linh = "Register function implemented by Linh";
+        }
     }
 }
